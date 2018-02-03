@@ -1,0 +1,6 @@
+# shimaitter
+study of chrome extension
+
+mastodonのインスタンスの一つであるshimaidonに搭載されている独自機能をwebのtwitterで使うためのchorome extensionのコード。
+
+使うには別途jqueryを同じフォルダに配置し、jquery.jsにリネーム、chromeの拡張機能をデベロッパーモードにしてパッケージ化されていない拡張機能を読み込み有効化する。
