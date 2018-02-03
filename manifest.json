@@ -1,0 +1,11 @@
+{
+    "name": "shimaitter",
+    "version": "1.0",
+    "manifest_version": 2,
+    "content_scripts": [
+        {
+            "matches": ["*://twitter.com/*"],
+            "js": ["jquery-3.3.1.js", "script.js"]
+        }
+    ]
+}
